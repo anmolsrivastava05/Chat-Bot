@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cf35c269-59df-48d8-bad6-1a626b494797",
+    "data": [
+      {
+        "text": "Head pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509222846
+  },
+  {
+    "id": "f9a5c96e-7899-49a2-baaf-c38554c0399b",
+    "data": [
+      {
+        "text": "My head is paining",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

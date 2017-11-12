@@ -1,0 +1,26 @@
+[
+  {
+    "id": "daff332f-e654-4ee7-86b0-27ef9058a62a",
+    "data": [
+      {
+        "text": "My stomach is paining",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509222599
+  },
+  {
+    "id": "d0230fe5-4859-4a28-af8d-cb32ac199278",
+    "data": [
+      {
+        "text": "I have stomach ache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

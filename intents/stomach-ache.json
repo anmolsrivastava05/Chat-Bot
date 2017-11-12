@@ -1,0 +1,36 @@
+{
+  "id": "780dad43-04e0-4c90-8717-8d75de130738",
+  "name": "stomach-ache",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Over-the-counter gas remedies. Drugs that contain the ingredient simethicone may provide some relief by reducing gas. Examples of gas-relieving remedies include Mylanta and Gas-X.\nMedications to reduce acid production. Called H-2-receptor blockers, these medications are available over-the-counter and include cimetidine (Tagamet HB), famotidine (Pepcid AC), nizatidine (Axid AR) and ranitidine (Zantac 75). Stronger versions of these medications are available in prescription form.\n\nMedications that block acid \u0027pumps.\u0027 Proton pump inhibitors shut down the acid \"pumps\" within acid-secreting stomach cells. Proton pump inhibitors reduce acid by blocking the action of these tiny pumps.\nOver-the-counter proton pump inhibitors include lansoprazole (Prevacid 24HR) and omeprazole (Prilosec OTC). Stronger proton pump inhibitors also are available by prescription.\n\nMedication to strengthen the esophageal sphincter. Prokinetic agents help your stomach empty more rapidly and may help tighten the valve between your stomach and esophagus, reducing the likelihood of upper abdominal discomfort.\n\nDoctors may prescribe the medication metoclopramide (Reglan), but this drug doesn\u0027t work for everyone and may have significant side effects.\n\nLow-dose antidepressants. Tricyclic antidepressants and drugs known as selective serotonin reuptake inhibitors (SSRIs), taken in low doses, may help inhibit the activity of neurons that control intestinal pain.\nAntibiotics. If tests indicate that a common ulcer-causing bacterium called H. pylori is present in your stomach, your doctor may recommend antibiotics."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509222599,
+  "fallbackIntent": false,
+  "events": []
+}

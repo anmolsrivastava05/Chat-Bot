@@ -1,0 +1,34 @@
+{
+  "id": "0c53d1f8-cead-440b-9906-18b0db52f592",
+  "name": "head-pain",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "These prescription drugs are sometimes used to treat migraine headaches:\n\nButalbital, a barbiturate often used in combination with acetaminophen, caffeine, aspirin, and/or codeine\nNarcotics, such as oxycodone, hydrocodone, hydromorphone, or codeine\nButorphanol, a narcotic nasal spray\nTramadol"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509222846,
+  "fallbackIntent": false,
+  "events": []
+}

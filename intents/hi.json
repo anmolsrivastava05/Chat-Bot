@@ -1,0 +1,40 @@
+{
+  "id": "51340af9-c6e4-4936-ab0c-c070b51eae16",
+  "name": "hi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Hello , how may i help you?"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://www.google.co.in/search?q\u003dhello\u0026source\u003dlnms\u0026tbm\u003disch\u0026sa\u003dX\u0026ved\u003d0ahUKEwj9i7DonZTXAhUDYo8KHZt0AwQQ_AUICygC\u0026biw\u003d1439\u0026bih\u003d743#imgrc\u003dZmMxV72NQNarbM:"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509237099,
+  "fallbackIntent": false,
+  "events": []
+}
